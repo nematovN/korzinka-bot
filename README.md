@@ -2,7 +2,7 @@
 
 A Telegram bot for Korzinka supermarket that allows users to browse products, add them to a cart, and checkout. The bot also includes admin functionality for managing products.
 
-![KorzinkaBot](https://github.com/yourusername/korzinkabot/raw/main/screenshots/demo.png)
+![KorzinkaBot](https://github.com/nematovN/korzinka-bot/blob/main/image.png)
 
 ## Features
 
