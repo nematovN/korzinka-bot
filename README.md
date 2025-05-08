@@ -31,5 +31,5 @@ A Telegram bot for Korzinka supermarket that allows users to browse products, ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/korzinkabot.git
-   cd korzinkabot
+   git clone https://github.com/nematovN/korzinka-bot.git
+   cd korzinka-bot
