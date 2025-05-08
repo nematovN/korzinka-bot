@@ -26,6 +26,7 @@ async def cmd_start(message: Message):
         reply_markup=user_kb.main_menu()
     )
 
+
 @user_router.message(Text(text="🛍 Mahsulotlar"))
 async def show_products(message: Message):
     """Show all available products"""
